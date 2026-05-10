@@ -1,8 +1,8 @@
 {
     "valid": true,
     "version": 1,
-    "giveCapsuleOnKillChance": 30,
-    "onlyCapsulesFromUntameable": true,
+    "giveCapsuleOnKillChance": 100,
+    "onlyCapsulesFromUntameable": false,
     "disableWildBabyChances": true,
     "groups": [
         "Alpha Tiers"
