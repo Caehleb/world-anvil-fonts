@@ -1894,7 +1894,7 @@
             "spawnchance": 100,
             "territorial": false,
             "aggrorange": 1100,
-            "tameable": true,
+            "tameable": false,
             "statmultiplier": 1,
             "speedmultiplier": 1,
             "sizemultiplier": 1,
@@ -1912,7 +1912,7 @@
                 "b": 0,
                 "a": 255
             },
-            "dragweightminimum": 20,
+            "dragweightminimum": 1,
             "maleinheritchance": 0,
             "feminheritchance": 0,
             "extrawildmultiplier": 1,
@@ -1935,7 +1935,7 @@
                 "names": [],
                 "weights": []
             },
-            "dragweightmaximum": 550,
+            "dragweightmaximum": 1000,
             "group": "Alpha Tiers"
         }
     ]
