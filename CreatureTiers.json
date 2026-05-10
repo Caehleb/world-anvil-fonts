@@ -575,6 +575,7 @@
             "bredupgradechances": [
                 0,
                 0,
+                0,
                 0
             ],
             "usebredupgradechances": false,
@@ -1241,6 +1242,7 @@
             "bredupgradechances": [
                 0,
                 0,
+                0,
                 0
             ],
             "usebredupgradechances": false,
@@ -1858,6 +1860,7 @@
             "bredupgradechances": [
                 0,
                 0,
+                0,
                 0
             ],
             "usebredupgradechances": false,
@@ -1874,6 +1877,65 @@
                 "weights": []
             },
             "dragweightmaximum": 600,
+            "group": "Alpha Tiers"
+        },
+        {
+            "test": true,
+            "configname": "Test",
+            "tiernum": 1004,
+            "tier": "TEST",
+            "forceshowtraitnames": true,
+            "deathloot": "/Game/Aberration/CoreBlueprints/ItemLootSets/SupplyCrate/SupplyCrate_Cave_Aberration_Level35.SupplyCrate_Cave_Aberration_Level35",
+            "icon": "/Script/Engine.Texture2D'/CreatureTiers/CreatureTiers/common/art/icons/Alpha_Tier_Clear_notext.Alpha_Tier_Clear_notext'",
+            "buff": [],
+            "buffNearbyActors": [],
+            "giveBuffsOnHitting": [],
+            "giveBuffsOnBeingHit": [],
+            "spawnchance": 100,
+            "territorial": false,
+            "aggrorange": 1100,
+            "tameable": false,
+            "statmultiplier": 1,
+            "speedmultiplier": 1,
+            "sizemultiplier": 1,
+            "separatemultipliers": true,
+            "meleemultiplier": 0.1,
+            "healthmultiplier": 0.1,
+            "weightmultiplier": 0.1,
+            "xpmultiplier": 1,
+            "disablespawn": false,
+            "blacklist": [],
+            "normalvarianttiernum": 1001,
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 0,
+                "a": 255
+            },
+            "dragweightminimum": 35,
+            "maleinheritchance": 0,
+            "feminheritchance": 0,
+            "extrawildmultiplier": 1,
+            "bredupgradechances": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "usebredupgradechances": false,
+            "disableParticles": false,
+            "numCapsulesToRoll": 1,
+            "statskew": 0,
+            "possibletraitstoroll": {
+                "names": [],
+                "weights": []
+            },
+            "useAlternateStatScaling": false,
+            "capsuleOverrideWeights": {
+                "names": [],
+                "weights": []
+            },
+            "dragweightmaximum": 550,
             "group": "Alpha Tiers"
         }
     ]
