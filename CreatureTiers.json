@@ -18,7 +18,7 @@
             "buffNearbyActors": [],
             "giveBuffsOnHitting": [],
             "giveBuffsOnBeingHit": [],
-            "spawnchance": 0.2,
+            "spawnchance": 100,
             "territorial": false,
             "aggrorange": 3600,
             "tameable": true,
